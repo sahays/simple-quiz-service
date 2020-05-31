@@ -1,0 +1,15 @@
+{
+    "trigger": true,
+    "modules": [
+        "custom"
+    ],
+    "parentResource": "adminsqs1bc388d81bc388d8",
+    "functionName": "adminsqs1bc388d81bc388d8PreAuthentication",
+    "resourceName": "adminsqs1bc388d81bc388d8PreAuthentication",
+    "parentStack": "auth",
+    "triggerEnvs": [],
+    "triggerDir": "/usr/local/lib/node_modules/@aws-amplify/cli/node_modules/amplify-category-auth/provider-utils/awscloudformation/utils/../triggers/PreAuthentication",
+    "triggerTemplate": "PreAuthentication.json.ejs",
+    "roleName": "adminsqs1bc388d81bc388d8PreAuthentication",
+    "skipEdit": true
+}

@@ -17,6 +17,16 @@
                     "appId": "d1zhqdr7t17acd",
                     "type": "cicd"
                 }
+            },
+            "function": {
+                "adminsqs1bc388d81bc388d8PostConfirmation": {
+                    "GROUP": "users"
+                },
+                "adminsqs1bc388d81bc388d8PreAuthentication": {},
+                "adminsqs1bc388d81bc388d8PreSignup": {}
+            },
+            "auth": {
+                "adminsqs1bc388d81bc388d8": {}
             }
         }
     }
