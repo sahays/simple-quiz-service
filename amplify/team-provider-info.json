@@ -10,6 +10,14 @@
             "StackName": "amplify-simplequizservice-prod-82523",
             "StackId": "arn:aws:cloudformation:us-west-2:865118636886:stack/amplify-simplequizservice-prod-82523/f38029d0-a352-11ea-9fe6-0af3380f813e",
             "AmplifyAppId": "d3t5svaa5jh4cg"
+        },
+        "categories": {
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d3t5svaa5jh4cg",
+                    "type": "cicd"
+                }
+            }
         }
     }
 }
